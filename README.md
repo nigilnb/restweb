@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:
+## Date: 26/12/2025
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -28,6 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -237,13 +238,15 @@ Publish the website in the given URL.
     </footer>
 </body>
 </html>
+```
 
 
 ## OUTPUT:
-<Screenshot 2025-12-26 214410-1.png>
-<Screenshot 2025-12-26 214250-1.png>
-<Screenshot 2025-12-26 214316-1.png> 
-<Screenshot 2025-12-26 214345-1.png>
+![alt text](<Screenshot 2025-12-26 214410-2.png>) ![alt text](<Screenshot 2025-12-26 214250-2.png>) ![alt text](<Screenshot 2025-12-26 214316-2.png>) ![alt text](<Screenshot 2025-12-26 214345-2.png>)
+
+
+
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
